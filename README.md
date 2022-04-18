@@ -8,4 +8,4 @@ As a developer, I enjoy building things, especially combining multiple different
 
 As a developer advocate, I enjoy helping other developers to learn, understand and build. Let's learn something new together! I am also the "voice of the developer" at the table — bringing your feedback to the product team.
 
-You can find out more about me at: [dharach.com](dharach.com)
+You can find out more about me at: [dharach.com](https://www.dharach.com)
